@@ -6,8 +6,8 @@ Một giao diện người dùng (UI) hiện đại và trực quan được xâ
 
 ## 📸 Screenshots
 
-| Trang chủ | Danh sách bác sĩ |
-|----------|------------------|
+| Trang chủ |
+|----------|
 ![image](https://github.com/user-attachments/assets/eb809093-1fc3-4505-b528-8c6ed1518475)
 
 
@@ -34,7 +34,7 @@ Một giao diện người dùng (UI) hiện đại và trực quan được xâ
 ### Cài đặt:
 
 ```bash
-git clone https://github.com/yourusername/medical-app-ui.git
-cd medical-app-ui
+git clone https://github.com/ThachDev/MedicalAppUI.git
+cd MedicalAppUI
 flutter pub get
 flutter run
